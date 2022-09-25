@@ -9,7 +9,7 @@ Banco de dados pode ser definido, de forma ampla e generalista,  como uma coleç
 
 SQL - Structured Query Language são bancos de dados relacionais, utilizados para armazenar dados relacionados entre si.
 - Modelo transacional (vendas, e-commerce);
-- OLTP
+- OLTP;
 - Propriedades ACID (Atomicidade, Consistência, Isolamento, Durabilidade);
 - Normatização de Informação;
 - Esquema de Dados rígido;
@@ -49,6 +49,11 @@ No ambiente de dados existem (minimamente) 5 capacidades básicas:
 - Disponibilidade da informação para consumo;
 - Segurança;
 
+## Datalake vs Databricks
+
+Datalake: repositório centralizado que permite armazenar todos os seus dados estruturados e não estruturados em qualquer escala;
+Databricks: plataforma de análise de dados unificada para engenharia de dados, machine learning e ciência de dados colaborativa;
+
 ## O tipo de banco de dados influencia na complexidade?
   Não necessariamente. A parte mais complexa é a definição da arquitetura do banco de dados, uma vez que isso pode implicar em
 em problemas nas etapas posteriores.
@@ -65,3 +70,13 @@ Cientista de Dados:
 - Modelagem;
 - Reconhecimento de Padrões / Predição;
 - Busca responder perguntas atreladas ao contexto do negócio, buscando insights através de técnicas de modelagem;
+
+
+### Sobre o Desafio
+Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados. Para isso, anote todos os conceitos, definições e insights que julgar relevantes em um novo repositório Git, aumentando assim seu portfolio de conhecimentos.
+
+Super Dica: Organize tudo em seu README.md, é uma alternativa bem rápida e efetiva, pois, o GitHub provê uma interface bem simples e intuitiva para isso. Além de ampliar seu portifólio de projetos no GitHub!
+
+Pré-requisitos:
+- Conhecimento Avançados(SQL, NoSQL);
+- Computador com SO de sua preferência(Windows, Linux, Mac OS);
